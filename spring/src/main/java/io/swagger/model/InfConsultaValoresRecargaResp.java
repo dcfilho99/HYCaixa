@@ -15,7 +15,7 @@ import javax.validation.constraints.*;
  */
 @ApiModel(description = "Informações da resposta de consulta de todos os possíveis produtos e valores de recarga de cartão de transporte ou pré-pago na rede. Traz uma lista de todos os produtos e seus valores para depois serem filtrados pelo cartão do usuário.")
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:48.942Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:48:00.148Z[GMT]")
 public class InfConsultaValoresRecargaResp   {
   @JsonProperty("valores")
   private InfConsultaValoresRecargaRespValores valores = null;

@@ -13,7 +13,7 @@ import javax.validation.constraints.*;
  * InfConsultaParcelasEmprestimoRespOpcoesParcelas
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:48.942Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:48:00.148Z[GMT]")
 public class InfConsultaParcelasEmprestimoRespOpcoesParcelas   {
   @JsonProperty("qntParcelas")
   private String qntParcelas = null;

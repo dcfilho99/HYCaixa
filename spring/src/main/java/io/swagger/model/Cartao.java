@@ -14,7 +14,7 @@ import javax.validation.constraints.*;
  * Cartao
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:48.942Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:48:00.148Z[GMT]")
 public class Cartao   {
   /**
    * Modo de entrada de leitura do cartão. (000 = sem cartão, 050 = chip, 800 = chip, se falhar realiza leitura da trilha, 900 = trilha completa).
