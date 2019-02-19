@@ -15,7 +15,7 @@ import javax.validation.constraints.*;
  */
 @ApiModel(description = "Informações da requisição de extrato.")
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:37.739Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:48.942Z[GMT]")
 public class InfExtratoReq   {
   /**
    * Tipo de conta do extrato (CC = conta corrente, CP = conta poupança, CS = conta salário).

@@ -17,7 +17,7 @@ import javax.validation.constraints.*;
  */
 @ApiModel(description = "Informações da resposta da requisição de consulta de produtos disponíveis de recarga de um cartão.")
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:37.739Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:48.942Z[GMT]")
 public class InfConsultaProdutosRecargaResp   {
   @JsonProperty("products")
   @Valid

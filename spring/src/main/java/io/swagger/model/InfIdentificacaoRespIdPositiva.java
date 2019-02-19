@@ -14,7 +14,7 @@ import javax.validation.constraints.*;
  */
 @ApiModel(description = "Lista de conjunto de letras/sílabas a serem mostradas nas teclas em cada tela (até 7 caracteres por tecla).")
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:37.739Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-02-19T20:47:48.942Z[GMT]")
 public class InfIdentificacaoRespIdPositiva   {
   @JsonProperty("idTela")
   private String idTela = null;
